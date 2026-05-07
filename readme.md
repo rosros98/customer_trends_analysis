@@ -1,8 +1,8 @@
 # Customer Trends Analysis 📊
 
-A complete data analysis project focused on customer shopping behavior and purchasing trends using Python, Pandas, PostgreSQL, and Power BI.
+A complete data analysis project focused on customer shopping behavior and purchasing trends using **Python**, **Pandas**, **PostgreSQL**, and **Power BI**.
 The goal of this project is to explore customer data, identify meaningful business insights, and create interactive visualizations to support data-driven decision making.
-The project was made during an exercise for a university exam. A complete report in pdf describe all the study. 
+A complete report in pdf describe all the study made during an exercise at the university. 
 
 ## 🚀 Project Overview
 
@@ -29,7 +29,7 @@ Main activities included:
 
 ## 📈 Analysis Workflow
 
-1. Data Collection
+**1. Data Collection**
 The dataset contains customer shopping information including:
 
 * Age
@@ -39,7 +39,7 @@ The dataset contains customer shopping information including:
 * Payment methods
 * Shopping frequency
 
-2. Data Cleaning
+**2. Data Cleaning**
 Performed using Pandas:
 
 * Missing value handling
@@ -47,7 +47,7 @@ Performed using Pandas:
 * Data type corrections
 * Feature formatting
 
-3. Exploratory Data Analysis
+**3. Exploratory Data Analysis**
 The analysis focused on:
 
 * Customer demographics
@@ -56,14 +56,14 @@ The analysis focused on:
 * Purchase frequency
 * Correlation between variables
 
-4. Database Integration
+**4. Database Integration**
 The cleaned dataset was imported into PostgreSQL to:
 
 * Execute SQL queries
 * Perform aggregations
 * Simulate real business analytics scenarios
 
-5. Dashboard Visualization
+**5. Dashboard Visualization**
 An interactive Power BI dashboard was created to visualize:
 
 * Sales trends
