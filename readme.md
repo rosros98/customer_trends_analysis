@@ -30,6 +30,7 @@ Main activities included:
 ## 📈 Analysis Workflow
 
 **1. Data Collection**
+
 The dataset contains customer shopping information including:
 
 * Age
@@ -40,6 +41,7 @@ The dataset contains customer shopping information including:
 * Shopping frequency
 
 **2. Data Cleaning**
+
 Performed using Pandas:
 
 * Missing value handling
@@ -48,6 +50,7 @@ Performed using Pandas:
 * Feature formatting
 
 **3. Exploratory Data Analysis**
+
 The analysis focused on:
 
 * Customer demographics
@@ -57,6 +60,7 @@ The analysis focused on:
 * Correlation between variables
 
 **4. Database Integration**
+
 The cleaned dataset was imported into PostgreSQL to:
 
 * Execute SQL queries
@@ -64,6 +68,7 @@ The cleaned dataset was imported into PostgreSQL to:
 * Simulate real business analytics scenarios
 
 **5. Dashboard Visualization**
+
 An interactive Power BI dashboard was created to visualize:
 
 * Sales trends
